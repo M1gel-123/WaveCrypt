@@ -1,0 +1,36 @@
+================================================================================
+WAVECRYPT TERMINAL - SOFTWARE LICENSE AGREEMENT
+================================================================================
+Copyright (c) 2026 WaveCrypt Systems. All Rights Reserved.
+
+This software and its documentation are the intellectual property of the author.
+By using this software, you agree to the following terms and conditions:
+
+1. OWNERSHIP:
+   All rights, titles, and interests in and to this software (including but not 
+   limited to "codecfinal.py", "colorswap.py", source code, graphics, and 
+   icons) belong exclusively to the author under the WaveCrypt Systems brand.
+
+2. RESTRICTIONS:
+   - Copying, distributing, selling, or sharing this software without prior 
+     written consent from the author is strictly prohibited.
+   - Reverse engineering, decompilation, disassembly of binary (.exe) files, 
+     or unauthorized modification of the source code is strictly prohibited.
+   - This software is for personal use only. Commercial use is forbidden 
+     without a specific commercial license agreement.
+
+3. DISCLAIMER OF WARRANTY:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+   IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES, DATA LOSS, OR 
+   CLAIMS ARISING FROM THE USE OR MISUSE OF THIS TOOL.
+
+4. COPYRIGHT PROTECTION:
+   Any attempt to remove copyright notices from the user interface, metadata, 
+   or source headers will be considered a breach of this agreement.
+
+5. CONTACT:
+   For licensing inquiries or permission requests, contact the author via the 
+   official GitHub repository profile.
+================================================================================
+TERMINAL_STATUS: PROTECTED_BY_WAVECRYPT_SYSTEMS // 2026
+================================================================================
